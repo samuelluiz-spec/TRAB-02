@@ -1,0 +1,9 @@
+DEITEL, Paul; DEITEL, Harvey. Java: Como Programar. 10. ed. São Paulo: Pearson, 2016.
+
+ORACLE. Java Documentation – Polymorphism. Disponível em: https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html. Acesso em: 12 ago. 2025.
+
+ORACLE. Java Documentation – Interfaces. Disponível em: https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html. Acesso em: 12 ago. 2025.
+
+SOUZA, Gabriela. Como referenciar sites segundo as normas da ABNT. Tecnoblog, 2021. Disponível em: https://tecnoblog.net/responde/referencia-site-abnt-artigos/. Acesso em: 12 ago. 2025.
+
+NASCIMENTO, Lucas. Diferença entre classes abstratas e interfaces no Java. Alura, 2023. Disponível em: https://www.alura.com.br/artigos/diferenca-entre-classes-abstratas-e-interfaces-java. Acesso em: 12 ago. 2025.
